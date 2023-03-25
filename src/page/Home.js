@@ -18,7 +18,9 @@ export default class Home extends Component {
   render() {
 	return (
 	  <div>
-		<p>Hello {this.state.title}</p>
+		<p>
+            Hello {this.state.title}
+            </p>
         <button
           type="button"
           onClick={() => this.changeTitle()}

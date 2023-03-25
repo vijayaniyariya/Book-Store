@@ -11,7 +11,7 @@ export default class App extends Component {
         <Title  name="Title3"/> */}
         {/* <Home />
          */}
-         <Title title="Vijay"desc="is a Developer"/>
+         <Title title="Vijay Aniyariya" desc="is a Developer"/>
       </div>
     )
   }
