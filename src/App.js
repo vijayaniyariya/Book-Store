@@ -1,10 +1,10 @@
-
 // import Home from './page/Home';
 // import Title from './components/Title';
 // import Home from './page/Home';
 // import About from './page/About'
 // import Counter from './components/Counter'
-import List from './components/List'
+// import List from './components/List'
+import Title from './components/Title'
 
 
 
@@ -33,7 +33,8 @@ function App() {
          <Home /> */}
          
          {/* <Counter /> */}
-         <List />
+         {/* <List /> */}
+         <Title title="Vijay Aniyariya" description="Web Developer"/>
 
     </div>
   )
